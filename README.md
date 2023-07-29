@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h1 align="center">Hola 👋, soy Joshua</h1>
+<h3 align="center">Soy un developer de Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuacandia&label=Profile%20views&color=0e75b6&style=flat" alt="joshuacandia" /> </p>
 
-- 🌱 I’m currently learning **TypeScript and Tailwind**
+- 🌱 Actualmente estoy aprendiendo **TypeScript and Tailwind**
 
-- 👨‍💻 All of my projects are available at [this portfolio](this portfolio)
+- 👨‍💻 Todos mis proyectos estan disponibles en [this portfolio](this portfolio)
 
-- 💬 Ask me about **react, javascript**
+- 💬 Preguntame sobre **react, javascript**
 
-- 📫 How to reach me **joshuacandia74@gmail.com**
+- 📫 Contacto **joshuacandia74@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joshua candia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua candia" height="30" width="40" /></a>
 <a href="https://instagram.com/candiajoshua_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="candiajoshua_" height="30" width="40" /></a>
