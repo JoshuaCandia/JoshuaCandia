@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **TypeScript and Tailwind* y trabando en el proyecto AUXIE https://github.com/DiazAdriel0/AUXIE-App
 
-- 👨‍💻 Todos mis proyectos estan disponibles en este github
+- 👨‍💻 Todos mis proyectos estan disponibles en este perfil de github
 
 - 💬 Preguntame sobre **react, javascript**
 
