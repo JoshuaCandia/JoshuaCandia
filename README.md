@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuacandia&label=Profile%20views&color=0e75b6&style=flat" alt="joshuacandia" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **TypeScript and Tailwind* y trabando en el proyecto AUXIE https://github.com/DiazAdriel0/AUXIE-App
+- 🌱 Actualmente estoy trabajando de **Freelancer 
 
 - 👨‍💻 Todos mis proyectos estan disponibles en este perfil de github
 
