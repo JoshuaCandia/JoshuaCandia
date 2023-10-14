@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy trabajando en **Kalium Software**
 
-- 👨‍💻 Todos mis proyectos estan disponibles en este perfil de github
+- 👨‍💻 Todos mis proyectos estan disponibles en este github
 
 - 💬 Preguntame sobre **react, javascript**
 
