@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy trabajando en **Kalium Software** y estudiando **Golang**
 
-- 👨‍💻 Todos mis proyectos estan disponibles en este github
+- 👨‍💻 Mis proyectos estan disponibles en este github
 
 - 💬 Preguntame sobre **react, javascript, node.js**
 
