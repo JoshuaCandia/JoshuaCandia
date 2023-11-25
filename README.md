@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy trabajando de **Freelancer** y estudiando **Golang**
 
-- 👨‍💻 Todos mis proyectos estan disponibles en este github
+- 👨‍💻 Mis proyectos estan disponibles en este github
 
 - 💬 Preguntame sobre **react, js, node.js**
 
