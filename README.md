@@ -3,7 +3,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuacandia&label=Profile%20views&color=0e75b6&style=flat" alt="joshuacandia" /> </p>
 
-- 🌱 Actualmente estoy trabajando de **Freelancer** y estudiando **NestJS** 
+- 🌱 Actualmente estoy trabajando en **UILS** 
 
 - 👨‍💻 Mis proyectos estan disponibles en este github
 
