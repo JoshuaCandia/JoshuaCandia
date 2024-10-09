@@ -7,9 +7,7 @@
 
 - 👨‍💻 Mis proyectos estan disponibles en este github
 
-- 💬 Preguntame sobre **react, js, node.js** 
-
-- 📫 Contacto **joshuacandia74@gmail.com**  
+- 📫 Contacto **joshuacandia99@gmail.com**  
 
 <h3 align="left">Conecta conmigo :</h3>
 <p align="left">
