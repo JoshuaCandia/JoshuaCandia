@@ -7,7 +7,9 @@
 
 - 👨‍💻 Mis proyectos estan disponibles en este github
 
-- 📫 Contacto **joshuacandia99@gmail.com**  
+- 📫 Contacto **joshuacandia99@gmail.com**
+- 
+- 📫 Portfolio **https://joshuacandia.dev**  
 
 <h3 align="left">Conecta conmigo :</h3>
 <p align="left">
