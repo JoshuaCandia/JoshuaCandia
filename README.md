@@ -26,7 +26,7 @@
 
 Soy un desarrollador Fullstack apasionado por crear soluciones web eficientes y escalables. Me encanta resolver problemas complejos y mantener mi código limpio.
 
-- ⚡ Actualmente trabajando en **[Nombre de tu proyecto o "proyectos freelance"]**
+- ⚡ Actualmente trabajando en **[Reino Cerámicos]**
 - ⚙️ Profundizando mis conocimientos en el ecosistema **Java (Spring Boot)**
 - 💡 Pregúntame sobre **React, Node.js y bases de datos relacionales**
 - ✉️ Cómo contactarme: **joshuacandia99@gmail.com**
