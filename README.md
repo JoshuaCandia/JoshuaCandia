@@ -7,7 +7,7 @@
   <a href="https://joshuacandia.dev">
     <img src="https://img.shields.io/badge/Portfolio-joshuacandia.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/joshua-candia">
+  <a href="https://linkedin.com/in/candiajoshua">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:joshuacandia99@gmail.com">
