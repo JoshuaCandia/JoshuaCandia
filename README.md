@@ -51,6 +51,6 @@
 
   ---
 
-  <p align="center">
+  <p align="start">
   <img src="https://streak-stats.demolab.com/?user=joshuacandia&theme=dark&hide_border=true" height="150" />
   </p>
