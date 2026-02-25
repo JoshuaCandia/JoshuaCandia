@@ -66,6 +66,6 @@ Soy un desarrollador Fullstack apasionado por crear soluciones web eficientes y 
 ### 📊 Mis Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuacandia&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
+ <img src="https://streak-stats.demolab.com/?user=joshuacandia&theme=dark&hide_border=true" height="150" />
   <img src="https://streak-stats.demolab.com/?user=joshuacandia&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
 </p>
