@@ -4,7 +4,7 @@
 
 <h1>Joshua Candia</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=AAAAAA&center=true&vCenter=true&width=435&lines=Fullstack+Developer+%C2%B7+Argentina;Clean+Code+Enthusiast;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Fullstack+Developer+%C2%B7+Argentina;Clean+Code+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 <br/>
 
@@ -26,10 +26,10 @@
 
 Soy un desarrollador Fullstack apasionado por crear soluciones web eficientes y escalables. Me encanta resolver problemas complejos y mantener mi código limpio.
 
-- 🔭 Actualmente trabajando en **[Nombre de tu proyecto o "proyectos freelance"]**
-- 🌱 Profundizando mis conocimientos en el ecosistema **Java (Spring Boot)**
-- 💬 Pregúntame sobre **React, Node.js y bases de datos relacionales**
-- 📫 Cómo contactarme: **joshuacandia99@gmail.com**
+- ⚡ Actualmente trabajando en **[Nombre de tu proyecto o "proyectos freelance"]**
+- ⚙️ Profundizando mis conocimientos en el ecosistema **Java (Spring Boot)**
+- 💡 Pregúntame sobre **React, Node.js y bases de datos relacionales**
+- ✉️ Cómo contactarme: **joshuacandia99@gmail.com**
 
 ---
 
