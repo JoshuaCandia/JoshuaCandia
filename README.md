@@ -11,7 +11,7 @@
 <a href="https://joshuacandia.dev">
   <img src="https://img.shields.io/badge/Portfolio-joshuacandia.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://linkedin.com/in/candiajoshua">
+<a href="https://linkedin.com/in/candiajoshua">gf
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:joshuacandia99@gmail.com">
@@ -63,7 +63,7 @@ Soy un desarrollador Fullstack apasionado por crear soluciones web eficientes y 
 ### 🚀 Proyectos Destacados
 
 - **[Portfolio](joshuacandia.dev)** - Portfolio personal. Construido con Astro y React.
-- **[Clon de Apple](apple-website.joshuacandiadev)** - Breve descripción de qué hace la app. Construido con React y NestJS.
+- **[Clon de Apple](apple-website.joshuacandia.dev)** - Breve descripción de qué hace la app. Construido con React y NestJS.
 
 ---
 
