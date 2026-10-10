@@ -61,8 +61,9 @@ Soy fullstack developer y trabajo sobre todo con React, TypeScript y NestJS.
 ### 🚀 Proyectos Destacados
 
 - **[Portfolio](https://joshuacandia.dev)**: mi portfolio, hecho con Astro y React.
-- **[Clon de Apple](https://apple-website.joshuacandia.dev)**: réplica del sitio de Apple con animaciones en GSAP y modelos 3D con Three.js.
-- **[LR Consultora](http://lrconsultora.com.ar)**: sitio para un cliente, hecho con React y NextUI.
+- **[Custom Chess](https://github.com/JoshuaCandia/custom-chess)**: ajedrez online en tiempo real con reloj, chat de voz por WebRTC, rating ELO y puzzles de Lichess. React, Socket.io, Express y Prisma con PostgreSQL.
+- **[Clon de Apple](https://apple-website-coral.vercel.app)**: réplica del sitio de Apple con animaciones en GSAP y modelos 3D con Three.js.
+- **[LR Consultora](https://github.com/JoshuaCandia/LindaRico)**: sitio para un cliente, hecho con React y NextUI.
 
 ---
 
