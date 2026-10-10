@@ -24,11 +24,11 @@
 
 ### 👨‍💻 Un poco sobre mí
 
-Soy un desarrollador Fullstack apasionado por crear soluciones web eficientes y escalables. Me encanta resolver problemas complejos y mantener mi código limpio.
+Soy fullstack developer y trabajo sobre todo con React, TypeScript y NestJS.
 
-- ⚡ Actualmente trabajando en **Reino Cerámicos**
-- ⚙️ Profundizando mis conocimientos en el ecosistema **Java (Spring Boot)**
-- 💡 Pregúntame sobre **React, Node.js y bases de datos relacionales**
+- ⚡ Hoy desarrollo los sistemas internos de **Reino Cerámicos**: supply chain integrado con SAP Business One, un chatbot de WhatsApp que deriva cada consulta al vendedor de la sucursal más cercana, backoffice y un punto de venta hecho en **Java con Spring Boot**.
+- 🤖 También hago anotación de datos de código para entrenar modelos de IA.
+- 💡 Preguntame sobre React, NestJS o bases de datos relacionales.
 
 ---
 
@@ -47,6 +47,8 @@ Soy un desarrollador Fullstack apasionado por crear soluciones web eficientes y 
 ![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=white)
 
 **Herramientas**
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=white)
@@ -54,16 +56,13 @@ Soy un desarrollador Fullstack apasionado por crear soluciones web eficientes y 
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=white)
 
-**Aprendiendo**
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=white)
-
 ---
 
 ### 🚀 Proyectos Destacados
 
-- **[Portfolio](https://joshuacandia.dev)** - Portfolio personal. Construido con Astro y React.
-- **[Clon de Apple](https://apple-website.joshuacandia.dev)** - [Agrega aquí una breve descripción de tu proyecto]. Construido con React y NestJS.
+- **[Portfolio](https://joshuacandia.dev)**: mi portfolio, hecho con Astro y React.
+- **[Clon de Apple](https://apple-website.joshuacandia.dev)**: réplica del sitio de Apple con animaciones en GSAP y modelos 3D con Three.js.
+- **[LR Consultora](http://lrconsultora.com.ar)**: sitio para un cliente, hecho con React y NextUI.
 
 ---
 
